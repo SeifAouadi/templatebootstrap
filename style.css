@@ -1,0 +1,60 @@
+h3{
+    color: red;
+}
+#contactdiv{
+    margin-top: 200px;
+
+}
+.btn{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+footer{ 
+    background: url('images/news_letter_background_image_home@1x.png') no-repeat center center ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #section1{
+    background: url('images/slider_image_home@1x.png') no-repeat center center fixed ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+    height: 745px;
+    
+
+
+  }
+  .logo{
+    
+      margin-top: 40px;
+      
+  }
+  .navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    margin-left: 285px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: 1.5rem;
+}
+#parsec1{
+    color: white!important;
+    margin-top: 170px!important;
+
+
+}
+a{
+    color: white!important;
+}
